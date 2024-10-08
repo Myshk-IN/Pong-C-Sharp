@@ -1,0 +1,33 @@
+C:\Users\Mokinys\Desktop\PingPong\PingPong\bin\Debug\PingPong.exe.config
+C:\Users\Mokinys\Desktop\PingPong\PingPong\bin\Debug\PingPong.exe
+C:\Users\Mokinys\Desktop\PingPong\PingPong\bin\Debug\PingPong.pdb
+C:\Users\Mokinys\Desktop\PingPong\PingPong\obj\Debug\PingPong.csprojAssemblyReference.cache
+C:\Users\Mokinys\Desktop\PingPong\PingPong\obj\Debug\PingPong.Form1.resources
+C:\Users\Mokinys\Desktop\PingPong\PingPong\obj\Debug\PingPong.Properties.Resources.resources
+C:\Users\Mokinys\Desktop\PingPong\PingPong\obj\Debug\PingPong.csproj.GenerateResource.cache
+C:\Users\Mokinys\Desktop\PingPong\PingPong\obj\Debug\PingPong.csproj.CoreCompileInputs.cache
+C:\Users\Mokinys\Desktop\PingPong\PingPong\obj\Debug\PingPong.exe
+C:\Users\Mokinys\Desktop\PingPong\PingPong\obj\Debug\PingPong.pdb
+C:\Users\Mokinys\Desktop\PingPong\PingPong\obj\Debug\PingPong.Pong.resources
+C:\Users\Саша и Денис\Desktop\PingPong\PingPong\bin\Debug\PingPong.exe.config
+C:\Users\Саша и Денис\Desktop\PingPong\PingPong\bin\Debug\PingPong.exe
+C:\Users\Саша и Денис\Desktop\PingPong\PingPong\bin\Debug\PingPong.pdb
+C:\Users\Саша и Денис\Desktop\PingPong\PingPong\obj\Debug\PingPong.csprojAssemblyReference.cache
+C:\Users\Саша и Денис\Desktop\PingPong\PingPong\obj\Debug\PingPong.Form1.resources
+C:\Users\Саша и Денис\Desktop\PingPong\PingPong\obj\Debug\PingPong.Pong.resources
+C:\Users\Саша и Денис\Desktop\PingPong\PingPong\obj\Debug\PingPong.Properties.Resources.resources
+C:\Users\Саша и Денис\Desktop\PingPong\PingPong\obj\Debug\PingPong.csproj.GenerateResource.cache
+C:\Users\Саша и Денис\Desktop\PingPong\PingPong\obj\Debug\PingPong.csproj.CoreCompileInputs.cache
+C:\Users\Саша и Денис\Desktop\PingPong\PingPong\obj\Debug\PingPong.exe
+C:\Users\Саша и Денис\Desktop\PingPong\PingPong\obj\Debug\PingPong.pdb
+C:\Users\Саша и Денис\Desktop\Folders\Шняга Дениса\NKKM1\PingPong\PingPong\bin\Debug\PingPong.exe.config
+C:\Users\Саша и Денис\Desktop\Folders\Шняга Дениса\NKKM1\PingPong\PingPong\bin\Debug\PingPong.exe
+C:\Users\Саша и Денис\Desktop\Folders\Шняга Дениса\NKKM1\PingPong\PingPong\bin\Debug\PingPong.pdb
+C:\Users\Саша и Денис\Desktop\Folders\Шняга Дениса\NKKM1\PingPong\PingPong\obj\Debug\PingPong.csprojAssemblyReference.cache
+C:\Users\Саша и Денис\Desktop\Folders\Шняга Дениса\NKKM1\PingPong\PingPong\obj\Debug\PingPong.Form1.resources
+C:\Users\Саша и Денис\Desktop\Folders\Шняга Дениса\NKKM1\PingPong\PingPong\obj\Debug\PingPong.Pong.resources
+C:\Users\Саша и Денис\Desktop\Folders\Шняга Дениса\NKKM1\PingPong\PingPong\obj\Debug\PingPong.Properties.Resources.resources
+C:\Users\Саша и Денис\Desktop\Folders\Шняга Дениса\NKKM1\PingPong\PingPong\obj\Debug\PingPong.csproj.GenerateResource.cache
+C:\Users\Саша и Денис\Desktop\Folders\Шняга Дениса\NKKM1\PingPong\PingPong\obj\Debug\PingPong.csproj.CoreCompileInputs.cache
+C:\Users\Саша и Денис\Desktop\Folders\Шняга Дениса\NKKM1\PingPong\PingPong\obj\Debug\PingPong.exe
+C:\Users\Саша и Денис\Desktop\Folders\Шняга Дениса\NKKM1\PingPong\PingPong\obj\Debug\PingPong.pdb
